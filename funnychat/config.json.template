@@ -1,0 +1,15 @@
+{
+  "mysql": {
+    "host": "",
+    "port": 3306,
+    "user": "",
+    "password": "",
+    "database": "funny_chat"
+  },
+  "redis": {
+    "host": "",
+    "port": 6379,
+    "password": "",
+    "db": 0
+  }
+}
